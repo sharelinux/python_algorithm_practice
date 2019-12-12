@@ -15,3 +15,8 @@
 - 插入排序
 
   [插入排序代码实现](insertion_sort.py)  
+  
+  
+- 快速排序
+
+  [快速排序代码实现](quick_sort.py)  
