@@ -20,3 +20,10 @@
 - 快速排序
 
   [快速排序代码实现](quick_sort.py)  
+  
+
+### 常见算法问题实践
+
+- 乘法表
+  
+  [99乘法表代码实现](multiplication_table.py)
